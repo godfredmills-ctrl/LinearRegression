@@ -6,7 +6,7 @@ A linear regression model built with Keras that predicts taxi fares in Chicago b
 
 ## What This Project Does
 
-The model is trained on real Chicago taxi trip data. It learns the relationship between trip characteristics and the fare charged, then predicts fares for new trips.
+The model is trained on real Chicago taxi trip data (Just 2 days data). It learns the relationship between trip characteristics and the fare charged, then predicts fares for new trips.
 
 Two experiments are run and compared:
 
